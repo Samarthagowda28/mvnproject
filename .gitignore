@@ -1,0 +1,11 @@
+# Gradle
+.gradle/
+
+# Build output
+build/
+
+# Maven
+target/
+
+# Logs
+*.log
